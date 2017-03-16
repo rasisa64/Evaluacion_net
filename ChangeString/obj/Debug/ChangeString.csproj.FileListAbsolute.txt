@@ -1,0 +1,5 @@
+C:\DataRandy\A_Examen_Consultora\ChangeString\ChangeString\bin\Debug\ChangeString.dll
+C:\DataRandy\A_Examen_Consultora\ChangeString\ChangeString\bin\Debug\ChangeString.pdb
+C:\DataRandy\A_Examen_Consultora\ChangeString\ChangeString\obj\Debug\ChangeString.csprojResolveAssemblyReference.cache
+C:\DataRandy\A_Examen_Consultora\ChangeString\ChangeString\obj\Debug\ChangeString.dll
+C:\DataRandy\A_Examen_Consultora\ChangeString\ChangeString\obj\Debug\ChangeString.pdb
