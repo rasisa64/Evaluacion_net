@@ -1,0 +1,5 @@
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.BE\bin\Debug\WSBanco.BE.dll
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.BE\bin\Debug\WSBanco.BE.pdb
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.BE\obj\Debug\WSBanco.BE.csprojResolveAssemblyReference.cache
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.BE\obj\Debug\WSBanco.BE.dll
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.BE\obj\Debug\WSBanco.BE.pdb

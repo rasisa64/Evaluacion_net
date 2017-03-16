@@ -1,0 +1,9 @@
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.Datos\obj\Debug\WSBanco.Datos.csprojResolveAssemblyReference.cache
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.Datos\bin\Debug\WSBanco.Datos.dll.config
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.Datos\bin\Debug\WSBanco.Datos.dll
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.Datos\bin\Debug\WSBanco.Datos.pdb
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.Datos\bin\Debug\Oracle.DataAccess.dll
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.Datos\bin\Debug\WSBanco.BE.dll
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.Datos\bin\Debug\WSBanco.BE.pdb
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.Datos\obj\Debug\WSBanco.Datos.dll
+C:\DataRandy\A_Examen_Consultora\ChangeString\WSBanco.Datos\obj\Debug\WSBanco.Datos.pdb
